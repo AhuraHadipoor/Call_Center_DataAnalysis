@@ -1,5 +1,9 @@
 # Call Center Dashboard using Power BI ☎📞
 
+
+![Picture1](https://github.com/user-attachments/assets/36599873-d559-4143-a45e-b40cf5987941)
+
+
 ## Introduction 📚
 This project involves creating an interactive dashboard using Power BI to analyze call center performance. The dataset contains various attributes related to customer service interactions, including call details, agent performance, response times, and customer satisfaction levels. The project aims to derive meaningful insights and key performance indicators (KPIs) to assess call center efficiency and customer experience.
 
